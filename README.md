@@ -356,11 +356,6 @@ Bahçeşehir University, Istanbul
 **Date:** October 2025  
 **Status:** Analysis Complete | Implementation Pending
 
-For questions about methodology, implementation, or collaboration opportunities:
-- 📧 [Your Email]
-- 💼 [LinkedIn Profile]
-- 🌐 [Portfolio Website]
-
 ---
 
 ## 🙏 Acknowledgments
@@ -407,9 +402,3 @@ Dataset and business insights are property of Trendyol.
 
 ---
 
-**Ready to transform Arabic translation quality?**
-
-📄 Read: [Solution_Blueprint_15MIN.pdf](Solution_Blueprint_15MIN.pdf)  
-📊 Present: [Arabic_Translation_Quality_Analysis.pptx](../presentation/)  
-💻 Explore: [Jupyter Notebooks](../notebooks/)  
-🚀 Implement: [Start with Tier 1](#tier-1-quick-wins-months-1-3--30-40k)
